@@ -1,4 +1,4 @@
-# LaserScannerROS
+# laserScannerROS
 Program wrote using Robot Operating System. Visualize data from laser scanner. Independent from Rviz.
 
 #Note
