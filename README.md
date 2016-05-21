@@ -1,11 +1,11 @@
 # laserScannerROS
 Program uses Robot Operating System. Visualize data from laser scanner. Independent from Rviz.
 
-#Note
+#Tutorials
 Program code is based on tutorials and examples available on http://wiki.ros.org/
 
 # Note
-In order to use this program you must have properly configured ROS (project wrote using Indigo version) on your PC. 
+In order to use this program you must have properly configured ROS (project made using Indigo version) on your PC. 
 Then you have to create ROS package and put there files from repo.
 
 # Build
